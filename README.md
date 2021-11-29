@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ndeon
 - 👀 I’m interested in  astonomia em geral
 - estou aprendendo espectroscopia
+- procuro por maquinas virtuais linux para astronomia
